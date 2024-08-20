@@ -65,6 +65,16 @@ The year 2024 only has the first 6 months of income data reported.
   - December ($93.92K): Fourth highest.
   - October ($93.67K): Fifth highest.
 
+
+## Impact of Market Trends on Income
+
+The decline in inocme form 2023 to 2024, can be closely tied to the broader market trends observed in the construction sector in Eastern Long Island, New York. These include but are not limited to:
+
+  - Increased Vacancy Rates
+  - Stagnation in New Construction
+  - Economic Pressures
+
+
 ## Takeaways
 
   - The company had a good performance in 2023 but experienced a decline in 2024.
